@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1588435727 source:c:\users\79194\desktop\ \Инфа\films\films\main.cpp
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<string>
+	<windows.h>
+	<fstream>
+	<algorithm>
+
+1588494064 source:c:\users\79194\desktop\ \Инфа\films\films1.1\films_source.cpp
+	"Films_Header.h"
+
+1588494135 c:\users\79194\desktop\ \Инфа\films\films1.1\films_header.h
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<string>
+	<windows.h>
+	<fstream>
+	<algorithm>
+
+1588494114 source:c:\users\79194\desktop\ \Инфа\films\films1.1\main.cpp
+	"Films_Header.h"
+
